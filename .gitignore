@@ -24,3 +24,6 @@
 !**/*.heif
 !**/*.avif
 !**/*.apng
+
+# Allow json files anywhere
+!**/*.json
