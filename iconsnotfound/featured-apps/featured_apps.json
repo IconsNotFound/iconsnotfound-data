@@ -1,0 +1,47 @@
+[
+  {
+    "id": "app_01",
+    "logoUrl": "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/logo.webp",
+    "youtubeVideoId": "rYDJZbklWfk",
+    "version": "1.1.1",
+    "screenshots": [
+      "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/screenshots/1.webp",
+      "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/screenshots/2.webp",
+      "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/screenshots/3.webp",
+      "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/screenshots/4.webp",
+      "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/screenshots/5.webp",
+      "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/screenshots/6.webp"
+    ],
+    "content": {
+      "en": {
+        "title": "Weather",
+        "shortDescription": "A minimal, privacy-focused weather app for casual users. No tracking - just the weather for your saved places.",
+        "description": "A simple, clean weather app that tells you what you need to know — nothing more, nothing less.\n\nNo complicated graphs. No weather jargon. Just the temperature, conditions, and forecast for the places you care about. And the best part? Your location is never tracked. Only the places you save stay on your device.\n\n---\n\n\uD83D\uDCF1 App Details\n\n• License: Open Source (AGPLv3)\n• Internet: Required for weather data\n• Location Tracking: None. We don't track you. Period.\n• Saved Locations: Up to 10 places\n• Auto-update: Every 1 hour (or refresh manually)\n\n---\n\n✨ What You Can Do With This App\n\n▸ Search and Save Places\nFind any city or town and save it to your list. Uses Photon API for accurate searches.\n\n▸ Check Current Weather\nTemperature, conditions, wind, humidity — everything you need at a glance. Powered by Open-Meteo.\n\n▸ Refresh When You Want\nPull to refresh manually, or let the app auto-update every hour.\n\n▸ Your Privacy Stays Intact\nNo tracking. No location sharing. We only show weather for the places you explicitly save.\n\n▸ Works Everywhere\nUse it on Android, Linux, Windows — and soon on iOS and macOS. One app, all platforms.\n\n▸ Try It on Web Right Now\nNo installation needed. Just open your browser and go to weather.iconsnotfound.com. Works as a PWA too — you can install it on your phone or desktop.\n\n---\n\n\uD83D\uDCBB Available Platforms\n\n• Android: ✅ Available now\n• Linux (.deb): ✅ Available now\n• Windows: ✅ Available now\n• iOS/macOS: ⌛ Coming soon\n\n---\n\n\uD83C\uDF10 Web Version\n\nAccess the app instantly from any browser:\nweather.iconsnotfound.com\n\n✓ Same features as the desktop and mobile versions\n✓ No installation required\n✓ Works as a Progressive Web App (installable on your device)"
+      },
+      "bn": {
+        "title": "ওয়েদার (আবহাওয়া)",
+        "shortDescription": "একটি মিনিমাল এবং প্রাইভেসী-ফোকাসড ওয়েদার অ্যাপ। কোনো ট্র্যাকিং নেই — শুধুমাত্র আপনার সংরক্ষিত স্থানগুলোর আবহাওয়ার আপডেট।",
+        "description": "একটি সাদামাটা, পরিষ্কার আবহাওয়ার অ্যাপ। শুধু জানাবেন যা জানা দরকার — এর বেশি না, এর কমও না।\n\nকোনো জটিল গ্রাফ নেই। কঠিন আবহাওয়ার পরিভাষা নেই। শুধু তাপমাত্রা, অবস্থা এবং পূর্বাভাস — আপনার পছন্দের জায়গাগুলোর জন্য। আর সবচেয়ে ভালো ব্যাপারটা কী জানেন? আপনার অবস্থান কখনো ট্র্যাক করা হয় না। আপনি যেসব জায়গা সেভ করবেন, শুধু সেগুলো আপনার ডিভাইসে থাকবে।\n\n---\n\n\uD83D\uDCF1 অ্যাপ সম্পর্কিত তথ্য\n\n• লাইসেন্স: ওপেন সোর্স (AGPLv3)\n• ইন্টারনেট: লাগবে (আবহাওয়ার ডেটা আনার জন্য)\n• অবস্থান ট্র্যাকিং: একদম নেই। আমরা আপনাকে ট্র্যাক করি না। পিরিয়ড।\n• সংরক্ষিত স্থান: সর্বোচ্চ ১০টি জায়গা\n• স্বয়ংক্রিয় আপডেট: প্রতি ১ ঘণ্টায় (চাইলে নিজেও রিফ্রেশ করতে পারবেন)\n\n---\n\n✨ এই অ্যাপ দিয়ে যা যা করতে পারবেন\n\n▸ জায়গা খুঁজে সেভ করা\nযেকোনো শহর বা এলাকা খুঁজে বের করুন, আপনার তালিকায় যোগ করে ফেলুন। Photon API ব্যবহার করে সঠিক রেজাল্ট দেখায়।\n\n▸ বর্তমান আবহাওয়া দেখা\nতাপমাত্রা, অবস্থা, বাতাস, আর্দ্রতা — এক নজরে সবকিছু। Open-Meteo থেকে ডেটা আসে।\n\n▸ ইচ্ছেমতো রিফ্রেশ\nচাইলে নিজে টেনে রিফ্রেশ করুন, নয়তো অ্যাপ নিজে থেকেই প্রতি ঘণ্টায় আপডেট হয়ে নেবে।\n\n▸ প্রাইভেসি নিয়ে দুশ্চিন্তা নেই\nকোনো ট্র্যাকিং নেই। লোকেশন শেয়ার করা লাগবে না। আপনি যেসব জায়গা নিজে সেভ করবেন, শুধু সেগুলোর আবহাওয়াই দেখাবে।\n\n▸ সব জায়গায় চলে\nঅ্যান্ড্রয়েড, লিনাক্স, উইন্ডোজ — এবং খুব শিগগিরই iOS ও ম্যাকওএস-এ। একটি অ্যাপ, সব প্ল্যাটফর্মে।\n\n▸ এখনই ওয়েব ভার্সন টেস্ট করুন\nইনস্টল করার দরকার নেই। শুধু ব্রাউজার খুলে যান weather.iconsnotfound.com-এ। PWA হিসেবেও কাজ করে — চাইলে ফোন বা ডেস্কটপে ইনস্টল করে রাখতে পারেন।\n\n---\n\n\uD83D\uDCBB যেসব প্ল্যাটফর্মে চলে\n\n• অ্যান্ড্রয়েড: ✅ এখনই পাবেন\n• লিনাক্স (.deb): ✅ এখনই পাবেন\n• উইন্ডোজ: ✅ এখনই পাবেন\n• iOS/macOS: ⌛ শীঘ্রই আসছে\n\n---\n\n\uD83C\uDF10 ওয়েব ভার্সন\n\nযেকোনো ব্রাউজার থেকে এখনই অ্যাক্সেস করুন:\nweather.iconsnotfound.com\n\n✓ ডেস্কটপ আর মোবাইল ভার্সনের সব ফিচার রয়েছে\n✓ ইনস্টল করার দরকার নেই\n✓ PWA হিসাবে কাজ করে (চাইলে ডিভাইসে ইনস্টল করে রাখতে পারেন)"
+      }
+    }
+  },
+  {
+    "id": "app_02",
+    "logoUrl": "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/notes/logo.webp",
+    "youtubeVideoId": "sFlmW5oJA7k",
+    "version": "1.2.9",
+    "screenshots": null,
+    "content": {
+      "en": {
+        "title": "Notes - Fast & Simple",
+        "shortDescription": "A lightweight, completely offline, open-source notes app with a clean UI and blazing speed.",
+        "description": "A notes app that just works. No clutter, no distractions, no internet required.\n\nWe built this app for people who want to jot down ideas quickly, keep track of important information, or maintain a simple diary — all without worrying about privacy or data charges. Everything you write stays on your phone, safe and private.\n\n---\n\n\uD83D\uDCF1 What You Need to Know\n\n• Works On: Almost any Android device (from older phones to the latest ones)\n• Price: Free forever — because we believe basic tools shouldn't cost money\n• Ads: Zero. No banners, no pop-ups, no interruptions\n• Internet: Not needed. Works completely offline\n• Your Data: Stays on your device. We don't see it, we don't store it, we can't access it\n\n---\n\n✨ What You Can Do With This App\n\n▸ Write Notes Instantly\nOpen the app and start typing. No loading screens, no waiting.\n\n▸ Edit or Delete Anytime\nMade a mistake? Changed your mind? Update your notes in seconds or remove what you don't need.\n\n▸ Works on Old Phones Too\nIf your phone is a few years old, don't worry. The app is designed to be light and fast, even on devices with limited memory.\n\n▸ No Internet? No Problem\nWhether you're traveling, in a remote area, or just want to save battery by keeping data off — the app works perfectly.\n\n▸ Clean and Simple Design\nNo confusing menus or hidden features. Everything is where you expect it to be.\n\n▸ Completely Open Source\nThat means anyone can check how the app works. No secrets, no hidden data collection. Just a simple tool that does what it says."
+      },
+      "bn": {
+        "title": "নোটস - দ্রুত ও সহজ",
+        "shortDescription": "একটি লাইটওয়েট, সম্পূর্ণ অফলাইন এবং ওপেন-সোর্স নোটস অ্যাপ। এর ক্লিন ইউজার ইন্টারফেস এবং সুপার-ফাস্ট গতি আপনার কাজের অভিজ্ঞতাকে সহজ করবে।",
+        "description": "\uD83D\uDCD2 নোটস - দ্রুত ও সহজ\n\n---\n\nএকটি নোট অ্যাপ যা শুধু কাজ করে। কোনো জঞ্জাল নেই, কোনো ঝামেলা নেই, ইন্টারনেটের দরকার নেই।\n\nএই অ্যাপটা বানানো হয়েছে তাদের জন্য, যারা দ্রুত কোনো কথা লিখে রাখতে চান, জরুরি তথ্য গুছিয়ে রাখতে চান, বা নিজের একটা ছোট ডায়েরি রাখতে চান — প্রাইভেসি নিয়ে দুশ্চিন্তা না করে, ডেটা চার্জের ভয় না করে। আপনি যা লিখবেন, তা আপনার ফোনেই থাকবে। নিরাপদ। ব্যক্তিগত।\n\n---\n\n\uD83D\uDCF1 যা জানা জরুরি\n\n• চলে যেখানে: প্রায় সব অ্যান্ড্রয়েড ফোনেই (পুরোনো হোক বা নতুন)\n• দাম: একদম ফ্রি। চিরকাল। ভালো বেসিক টুলসের জন্য টাকা নেওয়া উচিত না, এই আমাদের বিশ্বাস।\n• বিজ্ঞাপন: নেই। কোনো ব্যানার নেই, পপ-আপ নেই, বিরক্তি নেই।\n• ইন্টারনেট: লাগে না। অফলাইনেই পুরোদমে চলে।\n• আপনার ডেটা: আপনার ফোনেই থাকবে। আমরা দেখতে পাব না, রাখব না, নাগালও পাব না।\n\n---\n\n✨ এই অ্যাপ দিয়ে যা যা করতে পারবেন\n\n▸ ঝটপট নোট লেখা\nঅ্যাপ খুললেই টাইপ করা শুরু করতে পারবেন। লোডিং স্ক্রিন দেখতে হবে না। অপেক্ষা করতে হবে না।\n\n▸ ইচ্ছেমতো বদলানো বা মুছে ফেলা\nভুল লিখে ফেলেছেন? মন বদলেছে? সেকেন্ডের মধ্যে নোট আপডেট করে ফেলুন। না চাইলে ডিলিট।\n\n▸ পুরোনো ফোনেও দারুণ চলে\nআপনার ফোন যদি কয়েক বছরের পুরোনো হয়, টেনশনের কিছু নেই। অ্যাপটা হালকা। কম মেমরিতেও দ্রুত চলে।\n\n▸ ইন্টারনেট ছাড়াই চলে\nট্যুরে আছেন? রিমোট এরিয়ায়? নাকি ডেটা অফ রেখে ব্যাটারি বাঁচাচ্ছেন? অ্যাপ কিন্তু ঠিকই কাজ করবে।\n\n▸ ডিজাইন একদাম সাদামাটা ও পরিষ্কার\nকোনো জটিল মেনু নেই। লুকানো ফিচার বলে কিছু নেই। সবকিছু ঠিক সেখানেই আছে, যেখানে খুঁজবেন।\n\n▸ সম্পূর্ণ ওপেন সোর্স\nমানে যে কেউ দেখতে পারবেন অ্যাপটা ঠিক কীভাবে কাজ করে। কোনো গোপনীয়তা নেই। কারও ডেটা চুরির ফন্দি নেই। শুধু একটা সাদামাটা টুল, যা বলছে, তাই-ই করে।"
+      }
+    }
+  }
+]
