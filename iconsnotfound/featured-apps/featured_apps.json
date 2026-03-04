@@ -2,7 +2,7 @@
   {
     "id": "app_01",
     "logoUrl": "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/logo.webp",
-    "youtubeVideoId": "rYDJZbklWfk",
+    "youtubeVideoId": null,
     "version": "1.1.1",
     "screenshots": [
       "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/weather/screenshots/1.webp",
@@ -41,6 +41,25 @@
         "title": "নোটস - দ্রুত ও সহজ",
         "shortDescription": "একটি লাইটওয়েট, সম্পূর্ণ অফলাইন এবং ওপেন-সোর্স নোটস অ্যাপ। এর ক্লিন ইউজার ইন্টারফেস এবং সুপার-ফাস্ট গতি আপনার কাজের অভিজ্ঞতাকে সহজ করবে।",
         "description": "\uD83D\uDCD2 নোটস - দ্রুত ও সহজ\n\n---\n\nএকটি নোট অ্যাপ যা শুধু কাজ করে। কোনো জঞ্জাল নেই, কোনো ঝামেলা নেই, ইন্টারনেটের দরকার নেই।\n\nএই অ্যাপটা বানানো হয়েছে তাদের জন্য, যারা দ্রুত কোনো কথা লিখে রাখতে চান, জরুরি তথ্য গুছিয়ে রাখতে চান, বা নিজের একটা ছোট ডায়েরি রাখতে চান — প্রাইভেসি নিয়ে দুশ্চিন্তা না করে, ডেটা চার্জের ভয় না করে। আপনি যা লিখবেন, তা আপনার ফোনেই থাকবে। নিরাপদ। ব্যক্তিগত।\n\n---\n\n\uD83D\uDCF1 যা জানা জরুরি\n\n• চলে যেখানে: প্রায় সব অ্যান্ড্রয়েড ফোনেই (পুরোনো হোক বা নতুন)\n• দাম: একদম ফ্রি। চিরকাল। ভালো বেসিক টুলসের জন্য টাকা নেওয়া উচিত না, এই আমাদের বিশ্বাস।\n• বিজ্ঞাপন: নেই। কোনো ব্যানার নেই, পপ-আপ নেই, বিরক্তি নেই।\n• ইন্টারনেট: লাগে না। অফলাইনেই পুরোদমে চলে।\n• আপনার ডেটা: আপনার ফোনেই থাকবে। আমরা দেখতে পাব না, রাখব না, নাগালও পাব না।\n\n---\n\n✨ এই অ্যাপ দিয়ে যা যা করতে পারবেন\n\n▸ ঝটপট নোট লেখা\nঅ্যাপ খুললেই টাইপ করা শুরু করতে পারবেন। লোডিং স্ক্রিন দেখতে হবে না। অপেক্ষা করতে হবে না।\n\n▸ ইচ্ছেমতো বদলানো বা মুছে ফেলা\nভুল লিখে ফেলেছেন? মন বদলেছে? সেকেন্ডের মধ্যে নোট আপডেট করে ফেলুন। না চাইলে ডিলিট।\n\n▸ পুরোনো ফোনেও দারুণ চলে\nআপনার ফোন যদি কয়েক বছরের পুরোনো হয়, টেনশনের কিছু নেই। অ্যাপটা হালকা। কম মেমরিতেও দ্রুত চলে।\n\n▸ ইন্টারনেট ছাড়াই চলে\nট্যুরে আছেন? রিমোট এরিয়ায়? নাকি ডেটা অফ রেখে ব্যাটারি বাঁচাচ্ছেন? অ্যাপ কিন্তু ঠিকই কাজ করবে।\n\n▸ ডিজাইন একদাম সাদামাটা ও পরিষ্কার\nকোনো জটিল মেনু নেই। লুকানো ফিচার বলে কিছু নেই। সবকিছু ঠিক সেখানেই আছে, যেখানে খুঁজবেন।\n\n▸ সম্পূর্ণ ওপেন সোর্স\nমানে যে কেউ দেখতে পারবেন অ্যাপটা ঠিক কীভাবে কাজ করে। কোনো গোপনীয়তা নেই। কারও ডেটা চুরির ফন্দি নেই। শুধু একটা সাদামাটা টুল, যা বলছে, তাই-ই করে।"
+      }
+    }
+  },
+  {
+    "id": "app_03",
+    "logoUrl": "https://raw.githubusercontent.com/IconsNotFound/iconsnotfound-data/refs/heads/main/iconsnotfound/featured-apps/vros/logo.webp",
+    "youtubeVideoId": "rYDJZbklWfk",
+    "version": null,
+    "screenshots": null,
+    "content": {
+      "en": {
+        "title": "Vehicle Rescue Operation Simulation",
+        "shortDescription": "A simulation app for planning and visualizing efficient vehicle rescue operations.",
+        "description": "A simulation app for planning and visualizing efficient vehicle rescue operations."
+      },
+      "bn": {
+        "title": "ভেহিক্যাল রেসকিউ অপারেশন সিমুলেশন",
+        "shortDescription": "কার্যকরী ভেহিক্যাল রেসকিউ অপারেশন পরিকল্পনা এবং ভিজ্যুয়ালাইজেশনের জন্য একটি সিমুলেশন অ্যাপ।",
+        "description": "কার্যকরী ভেহিক্যাল রেসকিউ অপারেশন পরিকল্পনা এবং ভিজ্যুয়ালাইজেশনের জন্য একটি সিমুলেশন অ্যাপ।"
       }
     }
   }
