@@ -33,7 +33,8 @@
       },
       "windows": true,
       "web": true
-    }
+    },
+    "releaseUrl": "https://github.com/IconsNotFound/Weather/releases/latest"
   },
   {
     "id": "app_02",
@@ -57,7 +58,8 @@
     },
     "platforms": {
       "android": true
-    }
+    },
+    "releaseUrl": "https://github.com/IconsNotFound/Notes/releases/latest"
   },
   {
     "id": "app_03",
